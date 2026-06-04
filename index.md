@@ -1,14 +1,14 @@
 # プライバシーポリシー / Privacy Policy
 
-**最終更新日 / Last Updated:** 2026年5月8日
+**最終更新日 / Last Updated:** 2026年6月4日
 
 ---
 
 ## 1. はじめに / Introduction
 
-本アプリ「On-DOKU」（以下「本アプリ」）は、お子さんの日本語音読学習をサポートするアプリです。本プライバシーポリシーは、本アプリがどのような情報を収集し、どのように利用するかを説明します。
+本アプリ「On-DOKU」（以下「本アプリ」）は、OnDoku Studioが提供する日本語音読学習アプリです。本プライバシーポリシーは、本アプリがどのような情報を収集し、どのように利用するかを説明します。
 
-This app "On-DOKU" is a Japanese reading practice app for children. This Privacy Policy explains what information we collect and how we use it.
+This app "On-DOKU" is a Japanese reading practice app provided by OnDoku Studio. This Privacy Policy explains what information we collect and how we use it.
 
 ---
 
@@ -22,6 +22,7 @@ This app "On-DOKU" is a Japanese reading practice app for children. This Privacy
 - 音読したおはなしの履歴
 - タップして保存した語彙データ
 - 学習の進捗・連続日数
+- 音読時間の記録
 
 ### 2-3. 自動収集される情報
 - アプリの使用状況（Firebase Analyticsによる匿名データ）
@@ -89,7 +90,8 @@ This app is designed for families including children under 13. We minimize colle
 
 プライバシーに関するご質問は以下にご連絡ください：
 
-**メール / Email:** [nishida.y1990@gmail.com]
+**OnDoku Studio**
+**メール / Email:** n.yuji1017@icloud.com
 
 ---
 
