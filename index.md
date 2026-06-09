@@ -86,12 +86,15 @@ This app is designed for families including children under 13. We minimize colle
 
 ---
 
-## 9. お問い合わせ / Contact Us
+## お問い合わせ / Contact
 
-プライバシーに関するご質問は以下にご連絡ください：
+ご質問・不具合のご報告・プライバシーに関するお問い合わせは、以下までご連絡ください。
 
-**OnDoku Studio**
-**メール / Email:** n.yuji1017@icloud.com
+**OnDoku Studio**  
+**メール / Email:** ondokustudio@gmail.com
+
+通常2〜3営業日以内にご返信いたします。  
+We will respond within 2-3 business days.
 
 ---
 
