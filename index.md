@@ -55,7 +55,7 @@ This app is designed for families including children under 13. We minimize colle
 ## お問い合わせ / Contact
 ご質問・不具合のご報告・プライバシーに関するお問い合わせは、以下までご連絡ください。
 **OnDoku Studio**  
-**メール / Email:** ondokustudio@gmail.com
+**メール / Email:** nishida.y1990@gmail.com
 通常2〜3営業日以内にご返信いたします。  
 We will respond within 2-3 business days.
 ---
