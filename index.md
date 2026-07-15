@@ -41,9 +41,14 @@ This app "On-DOKU" is a Japanese reading practice app provided by OnDoku Studio.
 本アプリは13歳未満のお子さんを含む家族向けです。お子さんの個人情報の収集は最小限にとどめ、保護者の同意のもとでご利用いただくことを前提としています。
 This app is designed for families including children under 13. We minimize collection of children's personal information and assume parental consent for use.
 ---
-## 6. データの保管・削除 / Data Retention and Deletion
-- アカウントを削除した場合、関連するすべてのデータを削除します
-- データの削除を希望する場合は、下記の連絡先までお問い合わせください
+6. データの保管・削除 / Data Retention and Deletion
+On-DOKUのアカウントとすべての関連データを削除するには、以下の手順に従ってください：
+
+アプリ内の「設定」→「アカウント削除」からリクエストする
+または、nishida.y1990@gmail.com まで「アカウント削除希望」の件名でメールする
+
+削除されるデータ： メールアドレス、学習履歴、語彙データ、進捗データ
+保持期間： 削除リクエストから7日以内に完全に削除されます
 ---
 ## 7. セキュリティ / Security
 - すべての通信はSSL/TLS暗号化で保護されています
